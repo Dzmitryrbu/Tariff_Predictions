@@ -1,0 +1,2 @@
+# Tariff_Predictions
+You have at your disposal data on the behavior of customers who have already switched to these tariffs (from the draft course "Statistical Data Analysis"). You need to build a model for the classification problem that will select the appropriate rate. Data preprocessing is not required - you have already done it.  Build the model with the largest possible accuracy value. To pass the project successfully, you need to bring the percentage of correct answers to at least 0.75. Check accuracy on the test set yourself.
